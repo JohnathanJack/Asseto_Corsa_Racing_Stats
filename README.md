@@ -1,1 +1,3 @@
 # Asseto_Corsa_Racing_Stats
+
+The python notebook contains code that will scrape the assetta corsa website for racing data. The first file created for each server contains all the lap information of every race and the second file has the overall concise information of each race and user. I had server 0, 1, 3 and 4 scraped from the website, but can be altered in the code to attain the others if chosen to do so. 
